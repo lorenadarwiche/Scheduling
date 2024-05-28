@@ -1,6 +1,5 @@
 # Scheduling
 
-# movingSnowman
 ## Project Overview
 For this project, I implemented different scheduling processes, including Round Robin and First Come First Serve using C++ on Ubuntu VirtualBox. I had to find the wait time, the turn-around time and burst time.
 
